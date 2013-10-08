@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+provisioning_profiles/development/3CF78B63-9495-4921-B25D-50E4314EB265/appid=com.iwh.iwh
+provisioning_profiles/development/3CF78B63-9495-4921-B25D-50E4314EB265/name=iwh_development
+provisioning_profiles/development/3CF78B63-9495-4921-B25D-50E4314EB265/uuid=3CF78B63-9495-4921-B25D-50E4314EB265
+provisioning_profiles/development/76AE2DF4-B4E3-44C7-9B8A-59F0907953A4/appid=com.rydersalley.rydersalleyapp
+provisioning_profiles/development/76AE2DF4-B4E3-44C7-9B8A-59F0907953A4/name=Ryders Dev Profile
+provisioning_profiles/development/76AE2DF4-B4E3-44C7-9B8A-59F0907953A4/uuid=76AE2DF4-B4E3-44C7-9B8A-59F0907953A4
+provisioning_profiles/development/C4F66B36-1217-4652-979D-D879275631B4/appid=*
+provisioning_profiles/development/C4F66B36-1217-4652-979D-D879275631B4/name=IndiaNIC_All_Devices
+provisioning_profiles/development/C4F66B36-1217-4652-979D-D879275631B4/uuid=C4F66B36-1217-4652-979D-D879275631B4

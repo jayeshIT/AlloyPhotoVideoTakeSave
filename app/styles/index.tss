@@ -1,0 +1,18 @@
+".container": {
+	backgroundColor:"white"
+},
+".btn1[platform=ios]": {
+	top : 10,
+	left : 10,
+	height : 30,
+	width : 70,
+	title : 'Camera'
+} ,
+
+".btn1[platform=android]": {
+	top : 10,
+	left : 10,
+	height : 30,
+	width : 100,
+	title : 'Camera'
+} 
